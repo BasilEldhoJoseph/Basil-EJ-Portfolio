@@ -206,7 +206,7 @@ img {
 }
 
 .nav__logo-circle{
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 .nav__toggle{
@@ -236,7 +236,7 @@ img {
   color: var(--white-color);
 }
 .nav__title{
-  display: block;
+  display:block;
   font-size: var(--small-font-size);
   font-weight: var(--font-semi-bold);
   margin-bottom: 3.5rem;
@@ -381,7 +381,7 @@ img {
     height: max-content;
     position: absolute;
     left: 2rem;
-    top: 0;
+    top: 100px;
     bottom: 0;
     margin: auto 0;
     display: grid;
